@@ -1,0 +1,8 @@
+pytorch
+torchvision
+pytorch-lightning
+torchmetrics
+torchsummary
+xarray
+zarr
+matplotlib
