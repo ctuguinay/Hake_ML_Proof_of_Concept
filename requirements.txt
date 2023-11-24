@@ -6,3 +6,5 @@ torchsummary
 xarray
 zarr
 matplotlib
+lightning[extra]
+tensorboard
